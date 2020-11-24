@@ -7,7 +7,7 @@
         Assignment: Files & Perms
     -->
     <title>View Files3</title>
-</head>
+</head> 
 <body>
     <h2>View Files3</h2>
     <?php
